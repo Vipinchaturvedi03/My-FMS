@@ -1,4 +1,5 @@
 
+
 # FMS Kisan Krishi Management
 
 A comprehensive Farm Management System for Kisan Krishi, designed to streamline crop, labor, expense, stock, and reporting operations for agricultural businesses. This project features a modern frontend built with React and Tailwind CSS, and a robust backend using Node.js and Express, with a PostgreSQL database.
@@ -234,3 +235,7 @@ FMS_kisan_krishi_management/
 ## License
 
 This project is licensed under the MIT License.
+=======
+# My-FMS
+This is my MERN based project
+
