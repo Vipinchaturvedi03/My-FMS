@@ -3,7 +3,7 @@ import { translations } from '../translations.js';
 
 export default function DataTable({ columns, data, onDelete }) {
   const { lang } = useLanguage();
-  const t = (key) => translations[lang]?.[key] ?? key;
+  const t = (key) => translations[lang]?.[key] ?? key; 
 
   return (
     <div className="overflow-x-auto bg-white shadow rounded">

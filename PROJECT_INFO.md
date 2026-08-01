@@ -1,10 +1,12 @@
 # FMS - Farm Management System
 
-**Developer:** Vipin Chaturvedi
+**Developer:** Vipin Chaturvedi 
+
 
 ## Project Overview
 
-FMS (Farm Management System) ek comprehensive farm management application hai jo kisanon ko unke daily farm operations manage karne mein help karta hai.
+FMS (Farm Management System) ek comprehensive farm management application hai jo kisanon ko unke daily farm o
+perations manage karne mein help karta hai.
 
 ## Features
 
